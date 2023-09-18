@@ -1,0 +1,36 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: rgb(255, 208, 0);
+}
+
+#status,#statuss
+{
+font-size: 18px;
+}
+
+body{
+    background-size:cover ;
+}
+
+canvas{
+    margin-top: 50px;
+    border-radius: 75px;
+  
+
+}
+
+#start_webcam{
+    color: rgb(0, 255, 21);
+    background-color:black ;
+    margin-top: 30px;
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
